@@ -1,0 +1,7 @@
+Steps become DevOps : 
+* Git and GitHub
+* Linux 
+* Docker
+* Kubernates
+* Terraform
+* Cloud Provider
